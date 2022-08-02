@@ -1,19 +1,0 @@
-Reading package lists...
-Building dependency tree...
-Reading state information...
-The following package was automatically installed and is no longer required:
-  john-data
-Use 'sudo apt autoremove' to remove it.
-The following NEW packages will be installed:
-  meson
-0 upgraded, 1 newly installed, 0 to remove and 70 not upgraded.
-Need to get 376 kB of archives.
-After this operation, 2408 kB of additional disk space will be used.
-Get:1 http://archive.ubuntu.com/ubuntu focal/universe amd64 meson all 0.53.2-2ubuntu2 [376 kB]
-Fetched 376 kB in 1s (332 kB/s)
-Selecting previously unselected package meson.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 131630 files and directories currently installed.)
-Preparing to unpack .../meson_0.53.2-2ubuntu2_all.deb ...
-Unpacking meson (0.53.2-2ubuntu2) ...
-Setting up meson (0.53.2-2ubuntu2) ...
-Processing triggers for man-db (2.9.1-1) ...
