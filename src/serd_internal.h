@@ -17,7 +17,7 @@
 #ifndef SERD_INTERNAL_H
 #define SERD_INTERNAL_H
 
-#include "serd/serd.h"
+#include "serd.h"
 
 #include <stdio.h>
 

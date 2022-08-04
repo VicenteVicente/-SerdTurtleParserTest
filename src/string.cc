@@ -16,7 +16,7 @@
 
 #include "string_utils.h"
 
-#include "serd/serd.h"
+#include "serd.h"
 
 #include <math.h>
 #include <stdint.h>

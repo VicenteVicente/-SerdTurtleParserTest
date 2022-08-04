@@ -17,7 +17,7 @@
 #ifndef SERD_BYTE_SOURCE_H
 #define SERD_BYTE_SOURCE_H
 
-#include "serd/serd.h"
+#include "serd.h"
 
 #include <assert.h>
 #include <stdbool.h>

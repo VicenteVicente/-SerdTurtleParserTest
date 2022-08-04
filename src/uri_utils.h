@@ -17,7 +17,7 @@
 #ifndef SERD_URI_UTILS_H
 #define SERD_URI_UTILS_H
 
-#include "serd/serd.h"
+#include "serd.h"
 
 #include "string_utils.h"
 

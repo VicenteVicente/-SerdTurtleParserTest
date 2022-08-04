@@ -17,7 +17,7 @@
 #ifndef SERD_STRING_UTILS_H
 #define SERD_STRING_UTILS_H
 
-#include "serd/serd.h"
+#include "serd.h"
 
 #include <stdbool.h>
 #include <stddef.h>

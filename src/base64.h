@@ -17,7 +17,7 @@
 #ifndef SERD_BASE64_H
 #define SERD_BASE64_H
 
-#include "serd/serd.h"
+#include "serd.h"
 
 #include <stdbool.h>
 #include <stddef.h>

@@ -18,7 +18,7 @@
 
 #include "system.h"
 
-#include "serd/serd.h"
+#include "serd.h"
 
 #include <stdbool.h>
 #include <stdint.h>

@@ -14,7 +14,7 @@
   OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 */
 
-#include "serd/serd.h"
+#include "serd.h"
 
 #include <stdbool.h>
 #include <stdint.h>

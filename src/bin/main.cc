@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "serd/serd.h"
+#include "serd.h"
 
 int COUNT = 0;
 

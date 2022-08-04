@@ -20,7 +20,7 @@
 #include "byte_source.h"
 #include "stack.h"
 
-#include "serd/serd.h"
+#include "serd.h"
 
 #include <assert.h>
 #include <stdbool.h>

@@ -19,7 +19,7 @@
 #include "serd_internal.h"
 #include "string_utils.h"
 
-#include "serd/serd.h"
+#include "serd.h"
 
 #include <stdbool.h>
 #include <stdint.h>

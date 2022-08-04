@@ -17,7 +17,7 @@
 #ifndef SERD_NODE_H
 #define SERD_NODE_H
 
-#include "serd/serd.h"
+#include "serd.h"
 
 #include <stddef.h>
 
